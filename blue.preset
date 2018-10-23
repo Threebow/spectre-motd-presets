@@ -1,1 +1,4 @@
+Name: Blue
+Author: Threebow
+
 {"HexagonSpeed":[0.5,2.6972],"HexagonAmount":182.6772,"HexagonRotationDegrees":20.8609,"HexagonResizeTime":0.3839,"HexagonColor":[{"r":255.0,"b":255.0,"a":255.0,"g":255.0},{"r":0.0,"b":255.0,"a":255.0,"g":131.0}],"HexagonBlur":true,"HexagonDeleteTime":0.319,"HexagonSize":[23.0712,233.0877],"ButtonTextColor":{"r":255.0,"b":255.0,"a":255.0,"g":255.0},"HexagonDirectionChangeDelay":[10.0,300.0],"BackgroundColor":[{"r":120.0,"b":246.0,"a":255.0,"g":175.0},{"r":0.0,"b":0.0,"a":255.0,"g":0.0}],"HexagonAlpha":[85.5265,255.0],"MainButtonColor":{"r":255.0,"b":255.0,"a":150.0,"g":255.0},"MainButtonIconColor":{"r":0.0,"b":0.0,"a":255.0,"g":0.0},"PlayerInfoColor":{"r":255.0,"b":0.0,"a":255.0,"g":0.0}}
