@@ -1,0 +1,3 @@
+Name: Shadow
+Author: Threebow
+{"HexagonSpeed":0.6359,"HexagonResizeTime":1.0005,"HexagonRotationDegrees":20.8609,"HexagonAmount":130.2036,"HexagonColor":[{"r":255.0,"b":255.0,"a":255.0,"g":255.0},{"r":0.0,"b":0.0,"a":255.0,"g":0.0}],"HexagonBlur":true,"HexagonDeleteTime":1.0005,"HexagonSize":261.4156,"ButtonTextColor":{"r":0.0,"b":72.0,"a":133.0,"g":255.0},"HexagonDirectionChangeDelay":[10.0,300.0],"BackgroundColor":[{"r":119.0,"b":119.0,"a":255.0,"g":119.0},{"r":0.0,"b":0.0,"a":255.0,"g":0.0}],"HexagonAlpha":60.2947,"MainButtonColor":{"r":255.0,"b":255.0,"a":150.0,"g":255.0},"MainButtonIconColor":{"r":0.0,"b":72.0,"a":133.0,"g":255.0},"PlayerInfoColor":{"r":0.0,"b":72.0,"a":133.0,"g":255.0}}
