@@ -2,7 +2,7 @@
 Welcome to Spectre MOTD's preset repository! This system is a very powerful yet extremely simple way of allowing users to share their presets for anyone and everyone to use, all with the click of a button in-game. This document will outline the process of creating your own presets.
 
 # Steps
-Create a file in the root level of the repository, with all the others. It should be named as follows: `<name>.preset`, where `name` is the name of your theme in [kebab-case](http://wiki.c2.com/?KebabCase).
+Create a file in the root level of the repository, with all the others. It should be named as follows: `<name>.preset`, where `name` is the name of your preset in [kebab-case](http://wiki.c2.com/?KebabCase).
 
 Then, paste in the following template:
 
