@@ -12,6 +12,6 @@ Author: Your name
 (settings export)
 ```
 
-Where `(settings export)` is the JSON string that was copied to your clipboard when you exported your configuration through the "theming" button at the bottom of the in-game settings menu (this is also printed out to the console). This must reside on its own single line, the very last line of the file. Submit a pull request, and that's all there is to it - if you're still unsure of what to do, feel free to check out some other presets in the repo!
+Where `(settings export)` is the JSON string that was copied to your clipboard when you exported your configuration through the "theming" button at the bottom of the in-game settings menu (this is also printed out to the console). This must reside on its own single line, the very last line of the file. Submit a pull request, and if it gets accepted, your theme will shortly be available to every installation of Spectre MOTD. That's all there is to it - if you're still unsure of what to do, feel free to check out some other presets in the repo!
 
 Check out the [readme][README.md] to hear how this system works.
